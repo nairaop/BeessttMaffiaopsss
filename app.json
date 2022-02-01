@@ -1,7 +1,7 @@
 {
-  "name": "𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃",
-  "description": "The MafiaBot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
-  "logo": "https://telegra.ph/file/75229ba894ef780332815.jpg",
+  "name": "▀▄▀▄▀▄🄽🄰🅃🄺🄷🄰🅃 🄻🄰🄳🄺🄸▀▄▀▄▀▄",
+  "description": "The ▀▄▀▄▀▄🄽🄰🅃🄺🄷🄰🅃 🄻🄰🄳🄺🄸▀▄▀▄▀▄ made by @P_r_i_n_c_e_s_s_s_s_s_s special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MafiaBot_Support",
+  "logo": "https://te.legra.ph/file/5c8d41d867e79ef11f540.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
+  "repository": "https://github.com/nairaop/MafiaBotIsOP/",
   "website": "https://github.com/H1M4N5HU0P/MafiaBotIsOP/",
-  "success_url": "https://t.me/MafiaBot_Support",
+  "success_url": "https://t.me/P_r_i_n_c_e_s_s_s_s_s_s",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -24,7 +24,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "value": "@P_r_i_n_c_e_s_s_s_s_s_s",
       "required": false
     },
     "ABUSE": {
@@ -34,7 +34,7 @@
     },    
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIABOT IS ALIVE😈",
+      "value": "▀▄▀▄▀▄🄽🄰🅃🄺🄷🄰🅃 🄻🄰🄳🄺🄸▀▄▀▄▀▄",
       "required": false
     },
     "ALIVE_PIC": {
@@ -44,12 +44,12 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "▀▄▀▄▀▄🄽🄰🅃🄺🄷🄰🅃 🄻🄰🄳🄺🄸▀▄▀▄▀▄",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://te.legra.ph/file/5c8d41d867e79ef11f540.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -103,7 +103,7 @@
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "value": "https://te.legra.ph/file/5c8d41d867e79ef11f540.jpg",
       "required": false 
     },
     "EMOJI_IN_HELP": {
